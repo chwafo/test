@@ -1,2 +1,1 @@
-var a = 9;
-console.log(a);
+let a = 9;

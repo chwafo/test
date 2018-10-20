@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chwafo/test/issues"
   },
-  "homepage": "https://github.com/chwafo/test#readme"
+  "homepage": "https://github.com/chwafo/test#readme",
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
 }
